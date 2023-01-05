@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
+
+span{
+    color: red;
+}
+
+.span-title{
+    color: black;
+    font-weight: 600;
+}
+
+.plot{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.loader-img{
+    width: 700px;
+}
